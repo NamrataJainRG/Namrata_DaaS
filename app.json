@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Navigator Mobile App",
+    "slug": "navigator-mobile-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.navigator.mobileapp"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.navigator.mobileapp"
+    },
+    "web": {
+      "bundler": "webpack"
+    }
+  }
+}
